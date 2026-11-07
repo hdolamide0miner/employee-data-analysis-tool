@@ -1,0 +1,21 @@
+employee_id,name,department,location,hire_date,salary,performance_score,full_time,manager
+101,Alice Johnson,Engineering,New York,2019-03-15,95000,4.5,True,Sarah Lee
+102,Bob Smith,Marketing,Los Angeles,2020-07-22,72000,3.8,True,James Carter
+103,Carol White,Engineering,New York,2018-11-01,110000,4.9,True,Sarah Lee
+104,David Brown,HR,Chicago,2021-01-10,65000,3.2,True,Linda Green
+105,Eva Martinez,Marketing,Los Angeles,2017-05-30,80000,4.1,True,James Carter
+106,Frank Wilson,Engineering,Remote,2022-06-14,88000,3.7,True,Sarah Lee
+107,Grace Lee,Finance,Chicago,2016-09-09,99000,4.6,False,Linda Green
+108,Henry Taylor,HR,New York,2023-02-28,60000,2.9,True,Linda Green
+109,Isla Anderson,Finance,Remote,2020-12-01,105000,4.3,True,Linda Green
+110,Jake Thomas,Marketing,Chicago,2019-08-19,74000,3.5,True,James Carter
+111,Karen Jackson,Engineering,New York,2015-04-22,120000,4.8,True,Sarah Lee
+112,Liam Harris,Finance,Los Angeles,2021-11-03,91000,4.0,True,Linda Green
+113,Mia Clark,HR,Remote,2022-09-17,58000,3.1,False,Linda Green
+114,Noah Lewis,Marketing,New York,2018-03-05,77000,3.9,True,James Carter
+115,Olivia Walker,Engineering,Chicago,2020-01-20,93000,4.2,True,Sarah Lee
+116,Paul Hall,Finance,New York,2017-07-11,102000,4.4,True,Linda Green
+117,Quinn Allen,HR,Los Angeles,2023-05-08,62000,3.3,True,Linda Green
+118,Rachel Young,Engineering,Remote,2016-12-30,115000,4.7,True,Sarah Lee
+119,Sam King,Marketing,Chicago,2021-04-25,69000,3.6,False,James Carter
+120,Tina Scott,Finance,New York,2019-10-14,97000,4.1,True,Linda Green
